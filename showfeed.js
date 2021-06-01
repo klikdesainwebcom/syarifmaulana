@@ -1,4 +1,3 @@
-<script type='text/javascript'>
 var nopage;
 var jenis;
 var nomerhal;
@@ -162,4 +161,3 @@ var alamat = "/search/label/" + lblname1 + "?updated-max=" + timestamp + "&max-r
 }
 location.href = alamat
 }
-</script>  
